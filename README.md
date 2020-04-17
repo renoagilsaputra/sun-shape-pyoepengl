@@ -9,9 +9,9 @@
 
 => Bentuk Matahari dengan GL_LINE_LOOP
 
-![alt text](https://github.com/renoagilsaputra/sun-shape-pyoepengl/blob/master/output/line_loop.png "line_loop")
+![alt text](https://github.com/renoagilsaputra/sun-shape-pyopengl/blob/master/output/line_loop.png "line_loop")
 
 
 => Bentuk Matahari dengan GL_TRIANGLES
 
-![alt text](https://github.com/renoagilsaputra/sun-shape-pyoepengl/blob/master/output/triangles.png "triangles")
+![alt text](https://github.com/renoagilsaputra/sun-shape-pyopengl/blob/master/output/triangles.png "triangles")
