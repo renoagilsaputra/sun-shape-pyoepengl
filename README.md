@@ -12,6 +12,6 @@
 ![alt text](https://github.com/renoagilsaputra/sun-shape-pyoepengl/blob/master/output/line_loop.png "line_loop")
 
 
-=> Bentuk Matahari dengan GL_LINE_TRIANGLES
+=> Bentuk Matahari dengan GL_TRIANGLES
 
 ![alt text](https://github.com/renoagilsaputra/sun-shape-pyoepengl/blob/master/output/triangles.png "triangles")
