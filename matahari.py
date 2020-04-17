@@ -8,7 +8,7 @@ def init():
 
 def plotpoints():
     glColor3f(1.,1.0,0.)
-    # digunakan untuk membuar perulangan 0 - 18
+    # digunakan untuk membuat perulangan 0 - 18
     # dimana segitiga akan terbentuk sebanyak 18 kali
     # dengan rotasi sudut kelipatan 20
     # Note : jika ingin membuat looping dari 0 - 18 harus dilebihkan 1 menjadi 0 -19
