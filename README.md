@@ -1,4 +1,4 @@
-# sun-shape-pyoepengl
+# sun-shape-pyopengl
 
 # library 
 -PyOpenGL                                    3.1.3b2
